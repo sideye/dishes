@@ -1,0 +1,79 @@
+Apple Juice                            
+% Milk                            
+Medium Soda                            
+Kid's Cup                            
+Six Pack of Soda                            
+Liter Soda                            
+Garlic Parmesan Twists
+Bacon Cheddar Twists                            
+Cinnamon Twists                            
+Classic Wings
+Boneless Wings                            
+Creamy Ranch Dip                            
+Buffalo Ranch Dip                            
+BBQ Sauce Dip                            
+Marinara Dip                            
+Mild Buffalo Dip                            
+Medium Buffalo Dip                            
+Hot Buffalo Dip                            
+Zesty Red Sauce Dip                            
+Individual Garden Salad                            
+Garden Salad Entree                            
+Party Garden Salad                            
+Individual Caesar Salad                            
+Caesar Salad Entree                            
+Party Caesar Salad                            
+Cheese Pizza
+-Topping Pizza                            
+Skinny Crust Cheese Pizza                            
+Skinny Crust 1-Topping Pizza                            
+King Arthur's Supreme Pizza
+Skinny Crust King Arthur's Supreme Pizza                            
+Montague's All Meat Marvel Pizza
+Skinny Crust Montague's All Meat Marvel Pizza                            
+Italian Garlic Supreme Pizza
+Skinny Crust Italian Garlic Supreme Pizza                            
+Ulti-Meat Pizza                            
+Skinny Crust Ulti-Meat Pizza                            
+Wombo Combo Pizza                            
+Skinny Crust Wombo Combo Pizza                            
+Maui Zaui Pizza
+Skinny Crust Maui Zaui Pizza                            
+Hawaiian Pizza                            
+Skinny Crust Hawaiian Pizza                            
+Chicken and Garlic Gourmet Pizza
+Skinny Crust Chicken and Garlic Gourmet Pizza                            
+BBQ Chicken Pizza                            
+Skinny Crust BBQ Chicken Pizza                            
+Guinevere's Garden Delight Pizza                            
+Skinny Crust Guinevere's Garden Delight Pizza                            
+Gourmet Veggie Pizza
+Skinny Crust Gourmet Veggie Pizza                            
+Smokehouse Combo Pizza                            
+Skinny Crust Smokehouse Combo Pizza                            
+Pepperoni Parmesano Pizza                            
+Skinny Crust Pepperoni Parmesano Pizza                            
+Pepperoni Artisan Flatbread
+Tomato Pesto Flatbread                            
+Roasted Veggies with Chicken Flatbread                            
+Roasted Veggies with Mozzarella Flatbread                            
+Chicken Club Sandwich                            
+Ham Club Sandwich                            
+Turkey Club Sandwich                            
+The All Meat Pizza Sandwich                            
+RT Veggie Sandwich                            
+Chicken Bacon Alfredo Pasta                            
+Pasta Marinara with Sausage and Mushrooms                            
+Create Your Own Pasta                            
+Kid's 1-Topping Personal Pizza                            
+Kid's 6 Boneless Wings                            
+Personal 1-Topping Pizza and Salad Lunch Special                            
+Gourmet Sandwich with Chips Lunch Special                            
+Personal 1-Topping Pizza Lunch Special                            
+Salad and 3 Twists Lunch Special                            
+Chocolate Chip Cookie                            
+White Chocolate Macadamia Nut Cookie                            
+Fudge Brownie                            
+Cheesecake                            
+Tiramisu                            
+Rockslide Brownie                            

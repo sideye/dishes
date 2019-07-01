@@ -1,0 +1,24 @@
+Vegetarian Combo Salad                            
+Falafel Bowl                            
+Chicken Shawerma Bowl                            
+Meat Shawerma Bowl                            
+Lamb-beef Shawirma Plate                            
+Chicken Shawirma Plate                            
+Beef Shish Kabab Plate                            
+Chicken Shish Kabab Plate
+Kefta Kabab Plate                            
+Lamb Shish Kabab Plate                            
+Deluxe Falafel Wrap
+Lamb-Beef Shawirma Wrap
+Chicken Shawerma Wrap
+Beef Shish Kabab Wrap                            
+Chicken Shish Kabab Wrap
+Kefta Kabab Wrap                            
+Lamb Shish Kabab Wrap                            
+Feta Wrap                            
+Dolma Wrap                            
+Eggplant Wrap
+Taboun Salad
+Dolmas
+Batata                            
+Mojadara

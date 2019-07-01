@@ -1,0 +1,63 @@
+Ayran
+Orange Juice                            
+Soft Drink
+Turkish Tea
+Turkish Coffee
+Lahmacun
+Ispanakli Borek
+Kiymali Borek
+Havuc Kizartmasi
+Sigara Boregi
+Patlican Kizartma
+Eggplant Salad
+Cacik
+Ezme
+Stuffed Grape Leaves
+Baba Ghanouj
+Hummus
+Combo Appetizer Plate
+Piyaz
+Lentil Soup
+Shepherd Salad
+A La Turca Salad
+Chicken Salad
+Mushroom and Cheese Gozleme
+Tomatoes and Cheese Gozleme                            
+Potatoes and Cheese Gozleme
+Spinach and Cheese Gozleme
+Chicken and Cheese Gozleme
+Sucuk and Cheese Gozleme
+Doner and Cheese Gozleme                            
+Cheese Pide
+Spinach and Cheese Pide
+Fresh Tomatoes and Cheese Pide
+Cheese and Potatoes Pide                            
+Chicken and Mushroom Pide
+Sucuk and Cheese Pide
+Doner and Mozzarella Pide
+Ground Beef Pide
+Lamb Beef Doner Sandwich
+Chicken Doner Sandwich                            
+Falafel Sandwich
+Combo Doner Sandwich
+Doner Platter
+Chicken Doner Platter
+Meat Iskender Kebap Platter
+Chicken Iskender Platter
+Beef Shish Kebap Platter
+Beyti Kebap Platter
+Chicken Beyti Platter
+Falafel Platter
+Adana Kebap Platter                            
+Lamb Chops Platter
+Grilled Kofte Plate
+Combo Doner Plate
+Chicken Shish Kebap Platter
+Lamb Shish Kebap Platter
+Antep Yogurtlu Platter
+Combo Grill Plate
+Baklava
+Sutlac
+Kadayif
+Kunefe
+Burma

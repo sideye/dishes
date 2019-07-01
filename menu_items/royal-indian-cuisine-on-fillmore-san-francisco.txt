@@ -1,0 +1,98 @@
+Salt Lassi                            
+Sweet Lassi
+Masala Chai
+Indian Iced Tea                            
+Tandoori Chicken Wings
+Tandoori Assorted                            
+Chicken 65
+Samosa
+Baigan Pakora                            
+Palak Pakora                            
+Chicken Pakora                            
+Fish Pakora                            
+Calamari Pakora                            
+Paneer Pakora                            
+Spicy Mixed Vegetables Soup                            
+Daal Soup
+Chicken Mulligatwany Soup
+Cucumber Tomato Salad
+Mixed Green Salad                            
+Chicken Momo
+Vegetable Momo
+Mixed Vegetable
+Navaratna Korma                            
+Baigan Bharta
+Jeera Aloo                            
+Saag Aloo                            
+Aloo Matar                            
+Daal Makhani
+Coconut Vegetables Curry                            
+Bhindi Masala                            
+Chana Palak                            
+Paneer Korma
+Mushroom Matar
+Aloo Baingan
+Dal Tadka
+Paneer Tika Masala                            
+Malai Kofta
+Daal Saag
+Shahi Paneer
+Kadai Paneer
+Vegetable Tikka Masala
+Butter Chicken Masala
+Chicken Mushroom                            
+Coconut Chicken Curry
+Daal Chicken                            
+Chicken Chili                            
+Kashmiri Chicken
+Chicken Bharta                            
+Kadai Chicken
+Lamb Curry
+Lamb Rogan Josh
+Lamb Tikka Masala                            
+Kadai Ghost                            
+Daal Ghost                            
+Coconut Lamb Curry                            
+Lamb Shank
+Salmon Tikka Masala                            
+Salmon Vindaloo
+Salmon Saag Curry                            
+Shrimp Curry
+Shrimp Tikka Masala
+Shrimp Vindaloo
+Shrimp Saag Curry                            
+Shrimp Korma                            
+Mixed Seafood Curry                            
+Jeera Rice
+Vegetable Biryani                            
+Shrimp Biryani                            
+Mixed Seafood Biryani                            
+Raita                            
+Mango Chutney                            
+Mixed Pickle                            
+Vegetarian Thali for 2
+Royal Thali Special for 2
+Chicken Achari                            
+Chicken Tikka Kebab
+Boti Kebab
+Tandoori Salmon                            
+Tandoori Shrimp
+Lamb Chops
+Paneer Tikka Kebab                            
+Tandoori Mixed Grilled                            
+Laccha Paratha
+Butter Naan
+Serrano Chili Naan
+Paneer Naan
+Spinach Naan
+Chicken Naan                            
+Aloo Paratha                            
+Pudina Paratha                            
+Piece Puri                            
+Missi Roti
+Assorted Bread                            
+Gulab Jamun
+Kheer
+Kulfi                            
+Mango Kulfi
+Nut Allergies                            

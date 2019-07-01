@@ -1,0 +1,45 @@
+Dr. Pepper                            
+Hawaiian Punch                            
+Strawberry Fanta                            
+Gallon of Lemonade                            
+Gallon of Sweet Tea                            
+-Piece Meal                            
+Wings Meal                            
+Tenders Meal                            
+Nuggets Meal                            
+-Piece Cajun Fish Meal                            
+Popcorn Shrimp Meal                            
+Butterfly Shrimp Meal                            
+Jambalaya Bowl Meal                            
+-Piece Family Box                            
+Pieces
+Pieces                            
+Biscuit
+Biscuits                            
+Mashed Potatoes with Cajun Gravy
+Mac and Cheese
+French Fries                            
+Cajun Rice
+Red Beans and Rice
+Green Beans
+Corn
+Jalapeno Pepper                            
+Pecan Pie                            
+Mud Cake Pie                            
+Fried Hot Apple Cinnamon Pie                            
+-Piece Chicken Strips with Biscuit                            
+-Piece Chicken Strips Combo                            
+-Piece Chicken Strips Dinner                            
+-Piece Chicken Strips Dinner Combo                            
+-Piece Chicken Strips with Biscuit Combo                            
+-Piece Chicken Strips with 2 Biscuits
+-Piece Party Order (with 2 Biscuits)                            
+-Piece Party Order (with 4 Biscuits)                            
+-Piece Party Order (with 6 Biscuits)                            
+-Piece Party Order (with 8 Biscuits)                            
+-Piece Party Order (with 10 Biscuits)                            
+-Piece Party Order (with 12 Biscuits)                            
+-Piece Party Order (with 25 Biscuits)                            
+-Piece Party Order (with 36 Biscuits)                            
+-Piece Party Order (with 50 Biscuits)                            
+-Piece Party Order (with 72 Biscuits)                            

@@ -1,0 +1,216 @@
+Vitamin Water                            
+Snapple Green and Black Tea                            
+Vegetable Spring Rolls
+Green Onion Pancakes
+Avocado Egg Rolls                            
+Crab Rangoon                            
+Pork Fried Wonton                            
+Pork Pot Stickers
+Vegetable Pot Stickers
+BBQ Pork                            
+Spicy Hot Wings 8pcs                            
+Fried Chicken Wings 8pcs
+Combination Plate                            
+Vegetable Fried Wonton                            
+Spinach with Tofu Soup                            
+Vegetable Sizzling Rice Soup
+Vegetable Wonton Soup                            
+Chicken Wonton Soup
+Pork Wonton Soup                            
+Combination Wonton Soup                            
+West Lake Minced Beef Soup                            
+Chicken and Prawn Sizzling Rice Soup
+Seafood Soup                            
+Vegetable Salad                            
+Mango Shrimp Salad
+Hunan Garlic Eggplant                            
+Vegetable Delight                            
+General Tsao Tofu
+String Bean with Tofu in Garlic
+Sauteed Broccoli with Garlic                            
+Basil Tofu                            
+Hunan Kung Pao Tofu                            
+Black Mushroom with Tofu                            
+Black Mushroom with Baby Bok Choy                            
+Sauteed Spinach with Garlic Sauce                            
+Salt and Pepper Tofu
+Sauteed Snow Peas with Water Chestnut                            
+Asparagus in Black Bean Sauce
+Sweet and Sour Pork                            
+Mapo Tofu with Minced Pork                            
+Peking Pork Chop
+Shredded Pork with Garlic Sauce
+Twice-Cooked Pork                            
+Fried Tofu and BBQ Pork                            
+Pork Chop with Onion                            
+Mongolian Lamb                            
+Basil Lamb                            
+Kung Pao Lamb                            
+Lamb with Black Bean Sauce                            
+Mushroom Lamb                            
+Garlic Lamb                            
+String Bean with Lamb                            
+Hunan Crispy Dragon Beef                            
+Sizzling Beef on Hot Plate                            
+String Bean Beef                            
+Curry Beef with Fried Tofu
+Jade Beef                            
+Oyster Sauce Beef                            
+Tomato Beef
+Basil Beef                            
+Chinese Broccoli with Beef                            
+Cumin Beef                            
+Orange Beef                            
+Black Pepper Steak
+Asparagus with Beef in Black Bean Sauce                            
+Mushroom Beef                            
+Baby Bok Choy with Beef                            
+Beef with Scramble Egg
+Korean Chicken Wings 10 pcs                            
+Szechuan Chicken                            
+Mango Chicken                            
+String Beans with Chicken                            
+Baby Bok Choy with Chicken                            
+Mongolian Chicken                            
+Chicken with Vegetable                            
+Hunan Chicken                            
+Salt and Pepper Chicken Wings 10 pcs                            
+/2 Roast Duck                            
+/2 Peking Duck                            
+Walnut Prawns                            
+Curry Prawns                            
+Sweet and Sour Fish                            
+Calamaris in Black Bean Sauce                            
+Prawns with Vegetables                            
+Shrimp with Scrambled Egg                            
+Rock Cod Fillet in Black Bean Sauce
+Lemon Fish                            
+Lemon Prawns                            
+Salt and Pepper Fish                            
+Salt and Pepper Calamari
+Prawn with Black Bean Sauce                            
+Hunan Fish                            
+String Bean Fish                            
+String Bean Prawns                            
+Salmon with Asparagus in Black Bean Sauce                            
+Snow Peas with Shrimp                            
+Kung Pao Meatless Chicken                            
+Lemon Meatless Chicken                            
+General Tsao Meatless Chicken                            
+Sweet and Sour Meatless Chicken                            
+Sesame Meatless Chicken                            
+Orange Meatless Chicken                            
+Mongolian Meatless Chicken                            
+String Bean Meatless Chicken                            
+Basil Meatless Chicken
+Kung Pao Meatless Prawns
+Walnut Meatless Prawns                            
+Sweet and Sour Meatless Prawns                            
+String Bean Meatless Prawns                            
+H1. Steamed Mixed Vegetable                            
+H2. Steamed Broccoli with Chicken
+H3. Steamed Mixed Vegetables with Chicken                            
+H4. Steamed Mixed Vegetables with Prawns                            
+H2. Steamed Broccoli with Meatless Chicken                            
+H3. Steamed Mixed Vegetables with Meatless Chicken                            
+H4. Steamed Mixed Vegetables with Meatless Prawns                            
+Vegetable Mu Shu
+Chicken Mu Shu                            
+Pork Mu Shu
+Beef Mu Shu                            
+Shrimp Mu Shu                            
+Chicken Egg Fu Young                            
+BBQ Pork Egg Fu Young                            
+Vegetable Egg Fu Young                            
+Beef Egg Fu Young                            
+Prawns Egg Fu Young                            
+Combo Egg Fu Young                            
+Pork Fried Rice
+Pineapple Seafood Fried Rice                            
+Mango Shrimp Fried Rice                            
+Chicken with Salted Fish Fried Rice                            
+Beef Chow Mein                            
+Pork Chow Mein
+Vegetable Chow Fun                            
+Pork Chow Fun                            
+Combo Chow Fun                            
+Vegetable Pan-Fried Noodle                            
+Chicken Pan-Fried Noodle                            
+Beef Pan-Fried Noodle
+Pork Pan-Fried Noodle                            
+Shrimp Pan-Fried Noodle
+Seafood Pan-Fried Noodle                            
+House Special Pan-Fried Noodle
+Singapore-Style Rice Noodle                            
+White Rice                            
+A. Basil Eggplant with Chicken and Prawns                            
+B. Hunan Grilled Butter Beef
+C. Cumin Lamb                            
+D. Chicken Lettuce Cup
+Steamed BBQ Pork Buns                            
+Shrimp Dumplings                            
+Siu Mai                            
+Shanghai Small Dragon Dumplings                            
+Steamed Vegetable Dumplings
+Steamed Pork Dumplings                            
+Sesame Meatless Chicken Lunch Special                            
+Kung Pao Chicken Lunch Special                            
+Sweet and Sour Chicken Lunch Special                            
+Sweet and Sour Meatless Chicken Lunch Special                            
+Lemon Chicken Lunch Special
+Lemon Meatless Chicken Lunch Special                            
+General Tso's Meatless Chicken Lunch Special                            
+Curry Chicken Lunch Special                            
+Chicken with Black Bean Sauce Lunch Special                            
+Mixed Vegetable with Chicken Lunch Special                            
+Garlic Eggplant with Beef Lunch Special                            
+Garlic Eggplant with Chicken Lunch Special
+Orange Chicken Lunch Special
+Cashew Nut Chicken Lunch Special                            
+Korean Chicken Wings Lunch Special                            
+Mongolian Beef Lunch Special
+Broccoli Beef Lunch Special                            
+Beef with Tofu Lunch Special                            
+Basil Beef Lunch Special                            
+Basil Chicken Lunch Special
+Beef with Scrambled Egg Lunch Special                            
+Mango Beef Lunch Special
+Mango Chicken Lunch Special
+String Bean Beef Lunch Special                            
+String Bean Chicken Lunch Special
+Cumin Beef Lunch Special                            
+Oyster Sauce Beef Lunch Special                            
+Hunan Crispy Dragon Beef Lunch Special                            
+Pork Chop with Onion Lunch Special                            
+Mapo Tofu with Minced Pork Lunch Special                            
+Twice-Cooked Pork Lunch Special                            
+Eggplant in Garlic Sauce Lunch Special                            
+Dry Sauteed String Bean Lunch Special                            
+Shrimp with Scrambled Egg Lunch Special                            
+Rock Cod Filet in Black Bean Sauce Lunch Special                            
+Sweet and Sour Fish Lunch Special                            
+Sweet and Sour Prawns Lunch Special                            
+Garlic Prawns Lunch Special                            
+Lemon Fish Lunch Special
+Lemon Prawns Lunch Special                            
+Kung Pao Prawns Lunch Special                            
+Vegetable Egg Fu Yong Lunch Special                            
+Chicken Egg Fu Yong Lunch Special                            
+Beef Egg Fu Yong Lunch Special                            
+Combo Egg Fu Yong Lunch Special                            
+Shrimp Egg Fu Yong Lunch Special                            
+Basil Eggplant with Chicken and Prawns Lunch Special                            
+Walnut Prawns Lunch Special                            
+Walnut Meatless Prawns Lunch Special                            
+Snow Peas with Fish Lunch Special                            
+Snow Peas with Prawns Lunch Special                            
+Roast Duck Lunch Special                            
+Mongolian Lamb Lunch Special                            
+Green Tea Ice Cream                            
+Fried Banana                            
+Oreo Mousse Cake                            
+New York Cheese Cake                            
+Strawberry Swirl Cheese Cake                            
+Tiramisu Sponge Cake                            
+Carrot Cake                            
+Chocolate Mousse Cake                            

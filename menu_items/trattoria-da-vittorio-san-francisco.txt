@@ -1,0 +1,123 @@
+Orange Juice
+Cranberry Juice                            
+Caprese con Burrata
+Organic Beet Salad
+Insalata Mista
+Insalata Cesare
+Fried Calamari and Organic Artichoke                            
+Brussels Sprouts
+Antipasto Misto Della Casa                            
+House Made Gnocchi
+Fiocchetti Handmade Pasta
+Rigatoni Calabrese
+Spaghetti con Polpette
+Handmade Scialatielli Pasta Pescatora
+Handmade Porcini Mushroom Ravioli
+Lasagna
+Eggplant Parmigiana
+Petrale Sole Piccata
+Grilled Rack of Lamb
+Veal Scaloppini
+Beef Boneless Short Ribs Calabrese
+Pollo Milanese
+Caprese con Burrata Brunch                            
+Organic Beet Salad Brunch                            
+Insalata Mista Brunch                            
+Insalata Cesare Brunch                            
+Fried Calamari and Organic Artichoke Brunch                            
+Brussel Sprout Brunch                            
+Eggs Benedict Brunch                            
+Eggs Benedict Vegetarian Brunch                            
+Sausage, Mozzarella Cheese and Mushroom Omelette Brunch                            
+Bacon, Mozzarella Cheese and Spinach Omelette Brunch                            
+Smoked Salmon and Caramelized Onions Omelette Brunch
+Egg Scramble Brunch                            
+Bistecca Steak Panini Brunch                            
+House Made Italian Sausage Panini Brunch                            
+Grilled Chicken Panini Brunch                            
+Caprese Panini Brunch                            
+Homemade Meatball Panini Brunch                            
+Margarita Pizza Brunch                            
+Vegetariana Pizza Brunch                            
+Calabrese Pizza Brunch                            
+Bella Pizza Brunch                            
+Uovo Pizza Brunch                            
+Salsiccia Pizza Brunch                            
+San Daniele Pizza Brunch                            
+Spaghetti Carbonara Brunch                            
+Fiocchetti Handmade Pasta Brunch                            
+House Made Gnocchi Brunch                            
+Spaghetti con Polpette Brunch                            
+Handmade Scialatielli Pasta Pescatora Brunch                            
+Handmade Porcini Mushroom Ravioli Brunch                            
+Lasagna Brunch                            
+Eggplant Parmigiana Brunch                            
+Petrale Sole Piccata Brunch                            
+Veal Scaloppine Brunch                            
+Pollo Milanese Brunch                            
+Burrata Bruschetta
+Salmon Bruschetta
+Fave Bruschetta                            
+Nduja Bruschetta                            
+Pomodori Bruschetta
+Vegetariana Pizza                            
+Calabrese Pizza
+Baked Neapolitan Calzone
+Bella Pizza
+Salsiccia Pizza
+San Daniele Pizza
+Uovo Pizza
+Caprese con Burrata Lunch                            
+Organic Beet Salad Lunch                            
+Insalata Mista Lunch                            
+Insalata Cesare Lunch                            
+Fried Calamari and Organic Artichoke Lunch                            
+Brussels Sprouts Lunch                            
+Burrata Bruschetta Lunch                            
+Salmone Bruschetta Lunch                            
+Fave Bruschetta Lunch                            
+Nduja Bruschetta Lunch                            
+Pomodori Bruschetta Lunch                            
+Margherita Pizza Lunch                            
+Vegetariana Pizza Lunch                            
+Calabrese Pizza Lunch                            
+Bella Pizza Lunch                            
+Uovo Pizza Lunch                            
+Salsiccia Pizza Lunch                            
+San Daniele Pizza Lunch                            
+Spaghetti Carbonara Lunch                            
+Fiocchetti Handmade Pasta Lunch                            
+House Made Gnocchi Lunch                            
+Spaghetti con Polpette Lunch                            
+Rigatoni Calabrese Lunch                            
+Handmade Scialatielli Pasta Pescatora Lunch                            
+Handmade Porcini Mushroom Ravioli Lunch
+Lasagna Lunch                            
+Eggplant Parmigiana Lunch                            
+Petrale Sole Piccata Lunch                            
+Veal Scaloppine Lunch                            
+Pollo Milanese Lunch                            
+Bistecca Steak Panini Lunch                            
+House Made Italian Sausage Panini Lunch                            
+Grilled Chicken Panini Lunch                            
+Caprese Panini Lunch                            
+Homemade Meatball Panini Lunch                            
+Homemade Creme Brulee Cheesecake Lunch
+Torta di Mele con Gelato Apple Tarte Lunch                            
+Homemade Profiterole Lunch                            
+Nutellino Lunch                            
+Lemoncello Mascarpone Cake Lunch                            
+Affogato al Caffe Lunch                            
+Homemade Chocolate Souffle Lunch                            
+Sorbetti Lunch                            
+Caramel Gelato with Sea Salt and Olive Oil Lunch                            
+Mamma's Tiramisu
+Homemade Creme Brule Cheesecake
+Torta di Mele con Gelato Apple Tarte                            
+Homemade Profiterole
+Nutellino
+Lemoncello Mascarpone Cake                            
+Affogato al Caffe                            
+Homamade Chocolate Souffle                            
+Sorbetti
+Caramel Gelato with Sea Salt and Olive Oil                            

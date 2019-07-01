@@ -1,0 +1,40 @@
+Sparkling Mineral Water                            
+Mexican Soda
+Bottled Juice                            
+Bottled Tea                            
+Breakfast Quesadilla
+Breakfast Taco
+Sopa de Tortilla
+Black Bean and Grilled Corn Taco Salad
+Pieces Poppers                            
+Elote
+Carne Asada Quesadilla
+Pollo Quesadilla
+Pollo Asado Quesadilla
+Carnitas Quesadilla
+Poco Queso Quesadilla
+Vegetarian Quesadilla
+Vegan Quesadilla
+Carne Asada Burrito
+Pollo Burrito
+Pollo Asado Burrito
+Carnitas Burrito
+Pescado Burrito
+Grilled Fish Burritos
+Camarones Burrito
+Vegetariano Burrito
+Carne Asada Taco
+Pollo Taco
+Pollo Asado Taco
+Fried Chicken Taco
+Carnitas Taco
+Pescado Taco
+Grilled Fish Taco
+Camarones Taco
+Vegetariano Taco
+Kids Cheese Quesadilla                            
+Kids Bean Cheese Burrito                            
+Kids Rice Cheese Burrito                            
+Kids Cup of Beans and Rice
+Kids Bean and Cheese Taco
+Kids Cup of Applesauce                            

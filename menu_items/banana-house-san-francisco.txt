@@ -1,0 +1,66 @@
+Coconut Juice
+Pineapple Juice                            
+Vegetarian Egg Roll
+Tod Mum                            
+Fried Prawns                            
+Roti                            
+Banana House Combo                            
+Chicken Pot Sticker                            
+Fresh Spring Rolls
+Tom Yum                            
+Tom Kha                            
+Gang Jeud                            
+Papaya Salad                            
+Yum Woon Sen                            
+Thai Salad                            
+Larb Ped                            
+Yum Nuer                            
+Larb Gai                            
+Banana House Salad                            
+Mango Curry                            
+Massaman Curry                            
+Duck Curry                            
+Praram Plate                            
+Prik Khing Plate                            
+Prik Sod Plate                            
+Spicy Eggplant Plate                            
+Pad Kra Pao Plate                            
+Pad Broccoli Plate                            
+Garlic Pan Plate                            
+Chicken Cashew Nut Plate                            
+Mango Chicken Plate                            
+Chicken BBQ Plate                            
+Spicy Catfish Plate                            
+Salmon with Thai Basil Plate                            
+Pad See Ew
+Freid Rice                            
+Banana House Noodles                            
+Lard Nah                            
+Mango Fried Rice
+Banana House Fried Rice
+Spaghetti Kee Mao
+Peanut Noodles                            
+Curry Noodles                            
+Santa Noodle
+Red Curry Lunch Special                            
+Green Curry Lunch Special
+Yellow Curry Lunch Special
+Panang Curry Lunch Special                            
+Mango Curry Lunch Special                            
+Pumpkin Curry Lunch Special                            
+Massaman Curry Lunch Special                            
+Duck Curry Lunch Special
+Salmon Curry Lunch Special                            
+Praram Lunch Special                            
+Prik Khing Lunch Special                            
+Prik Sod Lunch Special                            
+Spicy Eggplant Lunch Special                            
+Pad Kra Pao Lunch Special                            
+Pad Broccoli Lunch Special                            
+Garlic Pan Lunch Special                            
+Chicken Cashew Nut Lunch Special                            
+Mango Chicken Lunch Special                            
+Chicken BBQ Lunch Special                            
+Spicy Catfish Lunch Special                            
+Salmon with Thai Basil Lunch Special                            
+Roti with Condensed Milk                            

@@ -1,0 +1,172 @@
+String Bean with Chicken Lunch                            
+Tofu with Chicken Lunch                            
+Kung Pao Chicken Lunch                            
+Sweet and Sour Chicken Lunch                            
+Sesame Chicken Lunch
+Black Bean Sauce Chicken Lunch                            
+Black Pepper Chicken Lunch                            
+Broccoli Chicken Lunch                            
+Broccoli Beef Lunch                            
+Mongolian Beef Lunch                            
+Tomato Beef Lunch                            
+Black Pepper Beef Lunch
+Sweet and Sour Pork Lunch
+Shredded Pork with String Bean Lunch                            
+Bitter Melon with Spare Ribs Lunch                            
+Mixed Vegetable with Fillet (Lunch)                            
+Black Bean Sauce Fish Lunch                            
+Spicy Garlic Eggplant Lunch
+Mixed Vegetable Lunch                            
+Special Dinner
+B1. Soy Milk                            
+B2. Soda                            
+B4. Iced Tea                            
+Green Onion Pancake
+Sesame Pancake
+Pancake
+Shredded Beef Roll
+House Special Pancake
+Chives Pancake
+Pieces Salt and Pepper Chicken Wings                            
+Szechuan Chicken Wings                            
+Pieces Fried Crab Cheese Puff                            
+Pieces Egg Rolls                            
+pieces Pot Stickers                            
+Pieces Veggie Pot Stickers                            
+Pieces Shanghai Juice Dumpling
+Pieces Crab and Polk Juicy Dumpling                            
+Pieces Pan Fried Bao
+Wonton with Spicy Oil
+Sticky Rice Roll
+Soured Napa Cabbage with Pork Soup                            
+Soured Napa Cabbage with Lamb Soup
+Soured Napa Cabbage with Fish Soup                            
+Sour Napa Cabbage with Spareribs Soup                            
+Shredded Turnip with Pork Balls Soup                            
+Westlake Beef Soup                            
+P8. Hot and Sour Soup
+P9. Egg and Flower Soup                            
+Chicken with Mushroom in Pot                            
+Numb - Spicy - Hot Stew
+Combination Mushroom in Pot                            
+Combination Seafood in Pot                            
+P17. Spicy Beef Hot Soup in Pot                            
+Seafood Hot Soup in Pot
+Sour Napa Cabbage Hot Soup in Pot                            
+Salted Fish with Eggplant in Pot                            
+Pork with Garlic Red Oil                            
+Couple Beef                            
+Sliced Kidney with Spicy Sauce                            
+Ginger and Green Onion Chicken                            
+Cold Chicken with Chili Oil                            
+Northern Style Homemade Colorful Mixed
+Shredded Spicy Potato                            
+Sliced Cucumber
+Jelly Fish                            
+Seaweed
+Sliced Dried Bean Curd                            
+Pig Ears
+Spicy Beef Tendon
+Vinegar Spinach                            
+Mixed Bean Curd Skin, Cucumber, and Peanut
+Chives, Eggs, Prawn with Pork Dumpling
+Chives and Eggs with Prawn Flavor Dumpling                            
+Chives with Fish Dumpling                            
+Chives with Prawn Dumpling
+Napa Cabbage with Pork Dumpling
+Chives with Pork Dumpling                            
+Mushroom with Pork Dumpling
+Fennel with Pork Dumpling                            
+Corn with Pork Dumpling
+Soured Napa Cabbage with Pork Dumpling                            
+Green Pepper with Pork Dumpling                            
+Corn with Chicken Dumpling                            
+Napa Cabbage with Chicken Dumpling
+Chives with Chicken Dumpling                            
+Radish with Beef Dumpling                            
+Celery with Beef Dumpling                            
+Zucchini with Lamb Dumpling
+Zucchini with Shrimp Dumpling                            
+Vegetarian Dumpling
+Hot and Spicy Boiled
+Fish with Flaming Chili Oil
+Braised Fish (whole fish)                            
+Braised Tofu with Fish                            
+Twice Cooked Fish                            
+Spicy Garlic Fish
+Silky Tofu with Fish                            
+Fish with Black Bean Sauce
+Salt and Pepper Fish
+Spicy Fish
+Fried Little Yellow Fish
+House Special Fish                            
+Honey Walnut Prawn
+Sweet and Sour Shrimp                            
+House Special
+Braised Eggplant
+Eggplant with Garlic Sauce
+Hot and Spicy Eggplant                            
+Stirred Preserved Green with Rice Noodle                            
+Spicy Cabbage
+Pepper Stir-fried Shredded Potato                            
+Sauteed String Beans
+Chives/ Celery with Dry Tofu                            
+A Choy                            
+Winter Melon with Dry Shrimp                            
+Bitter Melon with Scrambled Egg                            
+Assorted Vegetable                            
+Ma-Po Tofu
+Family Style Tofu                            
+Braised Tofu with Mushrooms                            
+Egg Surface Tofu
+Green Pepper with Dry Tofu                            
+Mushrooms with Baby Bok Choy
+Crispy Salt and Pepper Chicken
+Thai Basil Chicken                            
+Salt and Pepper Spareribs
+Twice Cooked Pork                            
+Liver Belly and Intestines with Special Sauce                            
+Leaves Spareribs
+House Special Pork
+Home-style Sweet and Sour Pork
+House Special Meat Balls
+Crispy Sliced Salt and Pepper Pork                            
+Kidney with Special Sauce                            
+Shredded Pork with Garlic Sauce                            
+Beijing Style Sauce Pork Strip                            
+Green Onion Satay Beef
+Spicy Tofu with Beef                            
+Black Pepper                            
+Cumin
+Braised Beef Tendon                            
+Mushu
+Mushu Shrimp                            
+Home-style Meatballs                            
+Home-style Pork with Homemade Sauce                            
+Sizzling Plate Black Pepper                            
+Sizzling Plate Cumin Seed                            
+Sizzling Plate Black Bean Sauce Chicken
+Sizzling Plate Fish with Black Bean Sauce                            
+Special Beef Noodle Soup
+Spicy Beef Noodle Soup
+Preserved Veg Shredded Pork Noodle Soup
+Napa Cabbage with Spareribs Noodle Soup                            
+Dumpling Noodle Soup                            
+Dalu Noodle
+Minced Pork Noodle with Soybean Paste
+Minced Pork Noodle with Egg and Tomato                            
+Vegetable
+Shrimp, Chicken, Beef(Combination)                            
+Beef and Tomato                            
+Beef
+Stir-Fried Flat Rice Noodle                            
+Shanghai Style Chow Mein
+Vegetable Shanghai Style Chow Mein                            
+Beef Stew Lo-Mein
+Shredded Pork Rice cake
+Shanghai Style Rice Cake                            
+Garlic Chow Mein                            
+Yang Chow Style Fried Rice                            
+Unagi Fried Rice                            
+Hong Kong Style Stir Fried                            
+R8. Steamed Rice                            

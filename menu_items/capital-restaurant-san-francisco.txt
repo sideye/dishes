@@ -1,0 +1,162 @@
+Egg Rolls                            
+Pot Stickers                            
+Six Pieces Fried Cream Cheese Wontons                            
+Fried Crispy Squids
+Eight Pieces Fried Prawns                            
+Honey BBQ Pork Slices                            
+Fried Soft Tofu with Salt and Hot Pepper                            
+Capital Plate
+Fried Chicken Wings with Salt and Hot Pepper
+Seafood Sizzling Rice Soup
+Seaweed Tofu Soup
+West Lake Beef Soup
+Chicken Cream Cheese Soup                            
+Seafood with Tofu Soup                            
+Crab Meat Cream Corn Soup                            
+Wonton Noodle Soup
+Wor Wonton Soup
+Shrimp Wonton Soup                            
+Hung Tao Ye Foo Wonton Soup
+BBQ Pork Wonton Noodles Soup                            
+Beef Stew Wonton Noodle Soup                            
+Beef Stew Fun Soup                            
+House Special Fun Soup                            
+Combination Meal for 1                            
+A. Dinner Special                            
+B. Dinner Special                            
+C. Dinner Special                            
+D. Dinner Special                            
+BBQ Pork Egg Foo Young
+Salt and Hot Pepper Spareribs
+Vinegar Sauce Spareribs
+Capital Spareribs                            
+Szechuan Pork                            
+Shredded Pork with Szechuan Garlic Sauce                            
+Eggplant with Spicy Meat Sauce                            
+Pork Chop with Black Pepper Sauce                            
+Steamed Pork Hash with Salted Fish                            
+Steamed Pork Hash with Salted Egg                            
+Beef with Bean Curd                            
+Beef with Double Mushrooms
+Beef with Ginger and Scallions                            
+Beef with Oyster Sauce                            
+Beef with Tomato                            
+Beef with String Beans                            
+Mongolian Beef                            
+Beef in Black Pepper Sauce                            
+Beef with Bitter Melon
+Beef with Broccoli
+Beef with Asparagus                            
+Chicken Egg Foo Young                            
+Broccoli Chicken                            
+Kung Pao Chicken                            
+Curry Chicken                            
+Chicken with String Beans                            
+Chicken with Fresh Mushrooms                            
+Chicken with Vegetables                            
+Garlic Chicken                            
+Orange Chicken                            
+General's Chicken                            
+Sesame Chicken                            
+Chicken with Asparagus                            
+Boiled Chicken with Ginger Soy Sauce
+Fried Shrimps with Salt and Hot Pepper                            
+Shrimp Egg Foo Young
+Cashew Nut Shrimp                            
+Szechuan Shrimp                            
+Shrimp in Black Bean Sauce                            
+Shrimp Sauteed in Wine Sauce                            
+Shrimp with Scrambled Eggs                            
+Shrimp with Mushrooms                            
+Shrimp with Broccoli
+Shrimp with Vegetables
+Shrimp with Asparagus                            
+Scallops with Szechuan Garlic Sauce                            
+Clams in Black Bean Sauce
+Oyster with Ginger and Scallions                            
+Oyster Omelette                            
+Squid in Black Beans Sauce                            
+Flounder Fillet with Broccoli                            
+Flounder Fillet with Eggplants                            
+Flounder Fillet in Black Bean Sauce                            
+Flounder Fillet with Dried Bean Curd                            
+Deep Fried Whole Flounder Fish                            
+Mixed Vegetables Egg Foo Young                            
+Braised Tofu with Black Mushrooms and Greens
+Dry Sauteed String Beans with Minced Pork                            
+Eggplants with Szechuan Garlic Sauce                            
+Broccoli with Double Mushrooms                            
+Mixed Vegetables Deluxe                            
+Mustard Greens with Garlic
+Egg Tofu with Spicy Meat Sauce
+Fukien Style Egg Tofu
+Sauteed Pea Shoots with Garlic
+Seafood with Tofu in Clay Pot                            
+Oyster with BBQ Pork and Tofu in Clay Pot                            
+Sizzling Chicken in Clay Pot                            
+Chicken with Salted Fish and Tofu Clay Pot                            
+Pork Chop with Eggplants in Clay Pot                            
+Satay Shrimps with Vermicelli in Clay Pot                            
+Fish Fillet with Tofu and Black Mushrooms in Clay Pot                            
+Curry Beef Stew in Clay Pot                            
+Beef Stew with Dried Bean Curd in Clay Pot                            
+Ox Tail with Dried Bean Curd in Clay Pot                            
+Lamb with Dried Bean Curd in Clay Pot
+Mixed Vegetable Chow Mein
+BBQ Pork Chow Mein
+Beef Chow Fun                            
+Pork with Cabbage and Shanghai Thick Noodles
+Broccoli Beef Chow Mein                            
+Mongolian Beef Chow Mein
+Beef Chow Fun with Gravy and Greens                            
+Curry Tomato Chicken Pan Fried Noodle
+Singapore Rice Noodles
+San See Chow Mein
+San See Rice Noodles                            
+Hometown Rice Noodles with Spicy XO Sauce                            
+Flounder Fish Chow Fun                            
+Shrimps with Scrambled Eggs over Chow Fun                            
+Shrimp Chow Fun                            
+Ja Jeun Mein                            
+Beef Stew Lo Mein                            
+Beef Stew Chow Fun                            
+Seafood Pan Fried Noodles
+Fukien Fried Rice
+Seafood XO Sauce Fried Rice                            
+Dried Scallops with Egg White Fried Rice
+Tofu with Mixed Vegetables over Rice                            
+Eggplant with Szechuan Garlic over Rice                            
+Eggplant with Spicy Meat Sauce over Rice                            
+Dry Sauteed String Beans with Pork over Rice                            
+Spareribs with String Bean over Rice                            
+Cashew Nut Chicken over Rice                            
+Kung Pao Chicken over Rice                            
+Curry Chicken over Rice                            
+Chicken with Mushroom over Rice                            
+Chicken with String Beans over Rice                            
+Chicken with Bitter Melon over Rice                            
+Mongolian Beef over Rice                            
+Szechuan Beef over Rice                            
+Tomato Beef over Rice                            
+Broccoli Beef over Rice                            
+Beef with Oyster Sauce over Rice                            
+Beef with Ginger and Scallions over Rice                            
+Beef with Scrambled Eggs over Rice                            
+Beef with Tofu over Rice                            
+Curry Beef Stew over Rice                            
+Beef Stew with Dried Bean Curd Stick over Rice                            
+Ox Tail with Dried Bean Curd over Rice                            
+Flounder Fish with Broccoli over Rice                            
+Flounder Fish with Eggplant over Rice                            
+Flounder Fish in Black Bean Sauce over Rice                            
+Flounder Fish with Dried Bean Curd over Rice                            
+Shrimp with Mushrooms over Rice                            
+Cashew Nut Shrimp over Rice                            
+Shrimp with String Beans over Rice                            
+Shrimp with Scrambled Eggs over Rice                            
+Lemon Iced Tea                            
+Honey Lemon Drink                            
+Lemon Coke                            
+Diet Coke
+-Up                            
+Sunkist                            

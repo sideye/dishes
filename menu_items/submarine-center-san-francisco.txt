@@ -1,0 +1,41 @@
+S1. Classic Submarine                            
+S2. Cheese Steak Sub
+S3. Italiano Sub                            
+S4. Turkey Sub                            
+S5. Roast Beef Sub
+S6. Hot Pastrami Sub
+S7. Corned Beef Sub                            
+S8. Mortadella Sub                            
+S8. Salami Sub                            
+S8. Ham Sub                            
+S8. Cheese Sub                            
+S9. BBQ Beef Sub                            
+S10. The Atomic Sub
+G1. Avocado, Salami and Swiss Cheese Sub
+G2. Avocado, Turkey and Swiss Cheese Sub
+G3. Avocado, Roast Beef and Swiss Cheese Sub                            
+G4. Avocado, Pastrami and Swiss Cheese Sub
+G5. Avocado, Corned Beef and Swiss Cheese Sub                            
+G6. Avocado, Roast Beef and Cucumber Sub                            
+G7. Avocado, Cheese and Cucumber Sub                            
+G8. Turkey, Pastrami and Cheese Sub
+G9. Turkey, Ham and Swiss Cheese Sub
+G10. Tuna Salad Combo Sub                            
+Meatball Sub
+Italian Sausage Sub
+Italian Combo Sub
+Polish Sausages Sub                            
+Hot Smokies Sub
+Cheese Pizza Sub                            
+Pepperoni Pizza Sub                            
+Salami Pizza Sub                            
+Veggie Pizza Sub                            
+Ham Pizza Sub                            
+Pastrami Pizza Sub                            
+Sausage Pizza Sub                            
+Potato Salad
+Macaroni Salad
+Coleslaw
+Pickle
+Soup Du Jour
+Apple Juice

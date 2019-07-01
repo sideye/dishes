@@ -1,0 +1,17 @@
+San Pellegrino                            
+Mexican Coke                            
+Bottled Water                            
+Small 10" 4-Cheese Pizza                            
+Large 14" 4 Cheese Pizza                            
+Small 10" Margherita Pizza                            
+Large 14" Margherita Pizza                            
+Small 10" Pepperoni Pizza                            
+Large 14" Pepperoni Pizza
+Small 10" Barbecue Chicken Pizza                            
+Large 14" Barbecue Chicken Pizza                            
+Small 10" Sausage Pizza                            
+Large 14" Sausage Pizza                            
+Small 10" Pesto with Red Pepper and Goat Cheese Pizza                            
+Large 14" Pesto Pizza with Red Pepper and Goat Cheese                            
+Small 10" Plain Cheese Pizza                            
+Large 14" Plain Cheese Pizza                            

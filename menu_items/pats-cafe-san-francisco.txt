@@ -1,0 +1,98 @@
+Caffe Mocha
+Hot Ghiradelli Chocolate
+Iced Tea                            
+Caffe Latte                            
+Chai Tea Latte
+Odwalla Orange Juice                            
+Grapefruit Juice
+POM Pomegranate Juice                            
+POM Pomegranate                            
+Root Beer Float                            
+Boylan Ginger Ale                            
+Pellegrino Bottled Water                            
+Polk Street Omelet Breakfast
+Mexican Omelet Breakfast                            
+El Ranchero Breakfast                            
+Chilaquiles American Style Breakfast
+Veggie Omelet Breakfast                            
+Salmon Scramble Breakfast                            
+Plain Ol' Eggs Breakfast
+Egg Burrito Breakfast                            
+California Omelet Breakfast                            
+San Francisco Spinach Omelet Breakfast                            
+Mediterranean Omelet Breakfast
+Biscuits and Sausage Gravy Breakfast                            
+Steak and Eggs Breakfast
+Joe's Special Breakfast                            
+Pat's Hash Breakfast
+Eggs in the Hole Breakfast
+Chilaquiles Mexican Style Breakfast
+Santo's Grilled Chicken Omelet                            
+Greek Salad Lunch                            
+Garden Salad Lunch                            
+Spinach Salad Lunch                            
+Caesar Salad Lunch                            
+Gilled Romaine Salad                            
+Quinoa Salad Lunch                            
+oz. All-American Hamburger Lunch                            
+Patty Melt Lunch                            
+New York 7 oz. Steak Sandwich Lunch                            
+Pat's Cheesesteak Sandwich Lunch                            
+The Basic BLT Sandwich Lunch                            
+Turkey Cran and Gorgonzola Sandwich
+Chicken Wrap Lunch                            
+Cheese Quesadilla Lunch                            
+Veggie Burger Lunch                            
+Spinach Special Sandwich Lunch                            
+Sweet Potato Wrap Lunch                            
+oz. All-American Cheeseburger Lunch                            
+California 8 oz. Burger Lunch                            
+Charlie Tuna Melt Lunch                            
+California Club Lunch                            
+Salmon Tacos                            
+Cajun Chicken Sandwich Lunch
+Chicken Quesadilla Lunch                            
+Alby Sandwich Lunch                            
+Eggplant Italian Sandwich Lunch                            
+Pat's Grilled Cheese Sandwich Lunch                            
+Veggie Wrap Lunch                            
+Turkey Cranberry and Gorgonzola Sandwich                            
+Chicken Tacos Lunch                            
+Hummus Plater                            
+Sonoma Burger Lunch
+Smoked Salmon BLT Lunch                            
+Shrimp Tacos Lunch                            
+Chicken Quinoa Bowl Lunch                            
+Pat's Grilled Cheese Lunch                            
+California Crepe Breakfast
+Fruit Crepes Breakfast                            
+Mediterranean Crepe
+Nutella Crepe Breakfast                            
+French Toast Breakfast                            
+Egg Croissant Breakfast                            
+Pancakes Breakfast                            
+Pancake Special Breakfast                            
+Belgian Waffle Special
+French Toast Special Breakfast
+Belgian Waffle Breakfast                            
+Granola and Fruit Breakfast                            
+Oatmeal Breakfast                            
+Fresh Fruit Breakfast                            
+Assorted Cold Cereals Breakfast                            
+Eggs
+Toast
+Breakfast Sausage Links                            
+Chicken Apple Sausage
+Ham Slice                            
+Premium Smoked Bacon                            
+Home Fries
+Biscuit and Sausage Gravy                            
+Fresh Lime Garlic Cilantro Fries
+Grits
+Grits with Cheese
+Side of Sausage Gravy                            
+Egg Whites
+Side of Hash                            
+Side of Avocado                            
+Pasta with Chicken Lunch                            
+Pasta Primavera Lunch                            

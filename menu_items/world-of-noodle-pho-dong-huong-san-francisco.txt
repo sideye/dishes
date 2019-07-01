@@ -1,0 +1,57 @@
+A1. Cha Gio
+A2. Bi Cuon                            
+A3. Goi Cuon
+A4. Nem Nuong Cuon
+A5. Tau Hu Ky
+A6. Vit Cuon Bac Kinh                            
+A7. Banh Bao Soup Thuong Hai
+A8. Banh Chien                            
+A9. Banh Bao Xa Xiu                            
+A10. Ha Gao                            
+A11. Xiu Mai                            
+A12. Banh Cam                            
+A13. Sui Cao Tom                            
+A14. Goi Cuon Chay
+A15. Cha Gio Chay                            
+A16. Rau Song                            
+A17. Diem Sam Hk
+A18. Diem Sam Thuong Hai                            
+A19. Sui Cao Chay                            
+S1. Goi Ga                            
+S2. Goi Tom                            
+S3. Goi Du Du
+S4. Goi Go Sen                            
+S5. Thit Nuong Salad
+S6. Tom Nuong Salad                            
+Pho Dac Biet
+Pho                            
+Mi Ga                            
+Hu Tieu Nam Vang
+Bo Kho                            
+Bun Rieu                            
+Banh Canh Tom Cua
+Banh Uot Thit Nuong
+Banh Uot Tom Nuong                            
+Pho Canh Chua                            
+Bun Thit Nuong
+Bun Bo Nuong
+Bun Tom Nuong                            
+Com Thit Nuong                            
+Com Bo Nuong                            
+Com Tom Nuong                            
+Com Ga Nuong                            
+Com Suon                            
+Combo Special Rice Plate                            
+Com Thit Nuong Combo Special                            
+Com Bo Nuong Combo Special                            
+Com Tom Nuong Combo Special                            
+Com Ga Nuong Combo Special                            
+Com Suon Combo Special                            
+Vietnamese Coffee
+Coconut Water
+Mango Shake
+Taro Shake
+Honeydew Shake
+Strawberry Shake
+Smoothie                            
+Hong Kong Iced Milk Tea

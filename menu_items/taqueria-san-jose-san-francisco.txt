@@ -1,0 +1,50 @@
+Eggs and Ham                            
+Eggs and Sausage                            
+Huevos Rancheros                            
+Caldo de Res
+Birria
+Menudo
+Super Special Plate
+Super Nachos
+Vegetarian Nachos                            
+Pieces Enchiladas Platillo                            
+Carnitas Roast Pork Platillo                            
+Chile Relleno Flame Roasted Pepper Platillo                            
+Carne Asada Grilled Steak Platillo                            
+Mojarrita Fish Platillo
+Tilapia Fish Platillo                            
+Fajita Combination Platillo                            
+Pieces Tacos Dorados Platillo
+Pollo Adobo Grilled Chicken Platillo                            
+Flour Quesadilla                            
+Suiza Quesadilla                            
+Tacos with Cheese
+Tacos with Guacamole
+Tacos with Sour Cream                            
+Vegetarian Tacos
+Super Tacos
+Burrito with Meat Rice and Beans                            
+Burrito with Cheese                            
+Burrito with Guacamole
+Burrito with Sour Cream                            
+Vegetarian Burrito                            
+Shrimp Salad                            
+Ceviche Tostada Red Snapper                            
+Tortas
+Shrimp Cocktail
+Sauce Side                            
+Avocado Side                            
+Cheese Side                            
+Guacamole Side                            
+Sour Cream Side                            
+Chips Side                            
+Rice Side                            
+Black Beans Side                            
+Refried Beans Side                            
+Tortillas Side                            
+Aguas Frescas
+Strawberry Beverage                            
+Melon Beverage                            
+Tamarindo Beverage                            
+Orange Soda                            
+Milk                            

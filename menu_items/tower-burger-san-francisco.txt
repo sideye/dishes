@@ -1,0 +1,51 @@
+Basic Burger
+Cheese Burger
+Bacon Burger
+Bacon Cheese Burger
+Mushroom Burger
+Chili Burger
+Western Burger
+Paris Burger
+California Burger
+Tower Burger                            
+Hawaiian Burger
+Basic Veggie Burger                            
+Veggie Cheese Burger                            
+Grilled Veggie Burger                            
+Barbecue Veggie Burger                            
+Potobella Mushroom Burger                            
+Veggie Chili Burger
+Veggie Paris Burger
+California Veggie Burger                            
+Basic Chicken Sandwiches                            
+Cheese Chicken Sandwiches                            
+Paris Chicken Sandwiches
+Mushroom Chicken Sandwiches                            
+California Chicken Sandwiches                            
+Grilled Ham & Cheese                            
+Patty Melt
+Club House Sandwich
+Philly Cheese Steak
+Caesar Salad                            
+Albacore Tuna Salad                            
+Pieces Fish & Chip                            
+Pieces Fish & Chip
+Prawns & Chip                            
+Pieces Fish & 3 Pieces of Prawn & Chip                            
+Chicken Strips
+Additional French Fries                            
+Additional Onion Rings                            
+Additional Salad                            
+Side French Fries                            
+Chilli Cheese Fries                            
+Side Onion Ring                            
+Bowl Chili                            
+Cup Of Chili
+Bowl Of Soup                            
+Cup Of Soup                            
+Cole Slaw
+Small Salad                            
+Fountain Soda
+Coffee & Hot Chocolate                            
+Mitchell's Chocolate, Vanilla, Strawberry Shake
+Coke & Root Beer Float

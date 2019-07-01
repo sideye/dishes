@@ -1,0 +1,45 @@
+Milk
+Callistoga Water                            
+Pesto Bread                            
+Antipasto
+Chef Salad
+Cheese Garlic Bread                            
+Bruschetta                            
+One Topping Pizza                            
+Two Topping Pizza
+Three Topping Pizza                            
+Four Topping Pizza
+Five Topping Pizza                            
+Six Topping Pizza                            
+Pizza Slice                            
+Eagle Special Pizza
+Vegetarian Special Pizza                            
+Gourmet Vegetarian Pizza                            
+Hawaiian Pizza
+Greek Pizza
+Clambake Pizza                            
+Amy "E" Pizza
+Meat Lovers Pizza                            
+Four Cheeses Pizza                            
+Classic Margherita Pizza                            
+Meatball Sandwich
+Ham and Cheese Sandwich                            
+Bacon, Lettuce and Tomato Sandwich                            
+Eggplant Sandwich                            
+Pizza Sandwich                            
+Grilled Chicken Sandwich                            
+Chicken Parmigiana Sandwich                            
+Tuna Sandwich                            
+Penne Alfredo
+Spaghetti with Baby Clams                            
+Chicken Parmigiana
+Ravioli Pasta                            
+Spaghetti with Meatballs                            
+Eggplant Parmigiana                            
+Classic Meat Lasagna                            
+Gnocchi Pillows                            
+Chocolate Mousse                            
+Ranch
+Blue cheese                            
+Marinara sauce                            
+Wing Sauce                            
