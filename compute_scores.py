@@ -12,6 +12,8 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 vader_analyzer = SentimentIntensityAnalyzer()
+tdm = pickle.load(open('term_doc_matrix.sav', 'rb'))
+clf = pickle.load(open('logisticRegClassification.sav', 'rb'))
 for file_path in tqdm(os.listdir('./extracted_dish_info/')):
     dishes = {}
     with open('./extracted_dish_info/{}'.format(file_path), "r+") as fp:
@@ -41,7 +43,12 @@ for file_path in tqdm(os.listdir('./extracted_dish_info/')):
             for excerpt in excerpts:
                 vader_sent = vader_analyzer.polarity_scores(excerpt)
                 text_blob_sent = TextBlob(excerpt).sentiment
-                overall_sent = 0.15*vader_sent['neg'] + 0.15*vader_sent['pos'] + 0.25 * vader_sent['compound'] + 0.45 * text_blob_sent.polarity
+                try:
+                    as_n_gram = tdm.transform([excerpt])
+                    pred_sent = clf.predict(as_n_gram)[0]
+                    overall_sent = 0.1*pred_sent/5 - 0.2*vader_sent['neg'] + 0.2*vader_sent['pos'] + 0.25 * vader_sent['compound'] + 0.45 * text_blob_sent.polarity
+                except:
+                    overall_sent = -1*0.2*vader_sent['neg'] + 0.2*vader_sent['pos'] + 0.3 * vader_sent['compound'] + 0.5 * text_blob_sent.polarity
                 sent_sum += excerpt_weight * overall_sent
             review_sent = sent_sum / len(excerpts) * math.log(5+len(excerpts) - 1, 5)
             dish_sent_sum += review_sent
@@ -58,7 +65,7 @@ for file_path in tqdm(os.listdir('./extracted_dish_info/')):
             review_text = review['review']
             vader_sent = vader_analyzer.polarity_scores(review_text)
             text_blob_sent = TextBlob(review_text).sentiment
-            overall_sent = 0.15*vader_sent['neg'] + 0.15*vader_sent['pos'] + 0.25 * vader_sent['compound'] + 0.45 * text_blob_sent.polarity
+            overall_sent = -1*0.2*vader_sent['neg'] + 0.2*vader_sent['pos'] + 0.3 * vader_sent['compound'] + 0.5 * text_blob_sent.polarity
             overall_sent_sum += overall_sent
         overall_sent = overall_sent_sum / len(inp[dish])
         category_scores[dish]['overall_sentiment'] = overall_sent
