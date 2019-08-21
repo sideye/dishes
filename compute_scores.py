@@ -91,7 +91,7 @@ for file_path in tqdm(os.listdir('./extracted_dish_info/')):
         category_scores[dish]['rest_popularity'] = math.log(restaurant_popularity,10)
     
     # COMBINE
-    # For now: do dish ranking through ranks. Will be changed in V2 when comparing dishes across restaurants
+    # For now: do dish ranking via ranks in each part. Will be changed in V2 when comparing dishes across restaurants
     for key in rankings:
         if key != 'dishes':
             rankings[key] = pd.Series(rankings[key]).rank()
@@ -113,4 +113,3 @@ for file_path in tqdm(os.listdir('./extracted_dish_info/')):
         json.dump(output, output_file)
 
     
-# IDEA: BUILD NLP model based on review data solely. Train results col can be found in yelp review scores
